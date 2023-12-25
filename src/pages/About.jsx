@@ -9,8 +9,9 @@ const About = () => {
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          A versatile full-stack web developer based in India. Crafting seamless digital experiences through innovative
-          coding and design solutions. Now, enhance your online presence, boost user engagement, and drive results.
+          A versatile full-stack web developer based in Viet Nam. Crafting seamless digital experiences through
+          innovative coding and design solutions. Now, enhance your online presence, boost user engagement, and drive
+          results.
         </p>
       </div>
       <div className="py-10 flex flex-col">
